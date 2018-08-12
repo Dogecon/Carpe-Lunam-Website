@@ -6,6 +6,11 @@ nav_color: hsl(108, 100%, 81%, 1)
 nav_txt_color: hsl(275, 100%, 25%, 1)
 ---
 
-## Carpe Lunam Events Association is a Vancouver-based non-profit founded in 2018.
+## Carpe Lunam Events Association is a member-funded non-profit with the goal of promoting decentralization.
 {:.rainbowText .rollingRainbow}
 
+<br>
+
+<h1><a style="padding: 10px; border: 1px solid; border-radius: 10px;" href="">Carpe Lunam's Constitution</a></h1>
+
+<br>
